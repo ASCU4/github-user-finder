@@ -161,4 +161,5 @@ function displayRepos(repos){
  }
 
  searchInput.value = "ASCU4";
+
  searchUser();
